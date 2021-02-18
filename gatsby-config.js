@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `The Stageline Company`,
+    description: `Stageline is a corporate company, dedicated to serving the United States Postal Service with superior quality transportation and supply chain services that sustain the future growth of the company and security of our employees.`,
+    author: `Ryan Simpson`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
